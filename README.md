@@ -16,7 +16,7 @@ Our full methodology and evaluation results are presented in our Tencon 2024 pap
   [Link to TenCon 2024 paper](https://ieeexplore.ieee.org/abstract/document/10902988))
 
 ## Methodology
-  ![Diagram]()
+  ![Diagram](Methodology.jpg)
   
 ##  Repository Contents
 
