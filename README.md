@@ -13,9 +13,11 @@ In addition to our paper’s methodology (using Vision Transformers + GCN + GPT2
 ##  Published Paper
 
 Our full methodology and evaluation results are presented in our Tencon 2024 paper.  
-🔗 [Link to TenCon 2024 paper](https://ieeexplore.ieee.org/abstract/document/10902988))
+  [Link to TenCon 2024 paper](https://ieeexplore.ieee.org/abstract/document/10902988))
 
-
+## Methodology
+  ![Diagram]()
+  
 ##  Repository Contents
 
 - Jupyter notebooks (`.ipynb`) implementing:
