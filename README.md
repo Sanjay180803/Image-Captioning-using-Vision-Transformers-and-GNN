@@ -61,7 +61,7 @@ Our full methodology and evaluation results are presented in our Tencon 2024 pap
 
 
 
-## 📊 Evaluation
+## Results
 
 In our paper, we evaluated our models on 50 radiology image-caption pairs reviewed by 20 biomedical students using a human scoring system (1–5 scale). We also evaluated caption generation models (GPT-2) using BLEU, BERT, and ROUGE-L scores before and after fine-tuning. Key findings:
 
